@@ -1,6 +1,6 @@
 <h1>Exam Celcoin :rocket:</h1>
 
-<spam><i>Exam for a Backend Developer at Celcoin.</i></spam>
+<spam><i>Exam for Backend Developer at Celcoin.</i></spam>
 
 <h2>About</h2>
 
@@ -15,6 +15,8 @@
 <summary><strong>Task 1 :sparkles:</strong></summary><br/>
 
   <h2>Continue the sequences:</h2>
+  
+ <spam><i>I completed from N4 onwards</i></spam>
 
 <img src="./public/assets/images/png/sequence.png"/><br/>
 
