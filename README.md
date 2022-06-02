@@ -135,5 +135,7 @@
 <img src="./public/assets/images/png/uc02-detailed-use-case-diagram.png"/><br/>
 <img src="./public/assets/images/png/uc03-detailed-use-case-diagram.png"/><br/>
 <img src="./public/assets/images/png/architecture-solution.png"/><br/>
+  
+  <h3><i>As for testing, I would invest in unit, integration, alpha and beta tests.</i></h3>
 
 </details>
