@@ -1,4 +1,4 @@
-<h1>Exam Celcoin :rocket:</h1>
+<h1>Celcoin Exam :rocket:</h1>
 
 <spam><i>Exam for Backend Developer at Celcoin.</i></spam>
 
