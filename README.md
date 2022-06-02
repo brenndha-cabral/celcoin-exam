@@ -56,3 +56,24 @@
   <img src="./public/assets/images/png/sorted-array.png"/><br/><br/>
 
 </details>
+
+<details>
+
+<summary><strong>Task 4 :sparkles:</strong></summary><br/>
+
+<h2>Look at the Entity Relationship Model and answer the questions below:</h2>
+  
+  <img src="./public/assets/images/png/database.png"/><br/><br/>
+
+  <p>The report was requested where we want to know which users had at least two orders with the Transaction Status “approved” (statusTransacaoId = 3) in the current month.</p>
+  
+  <p>In addition to the user information (name and email), it is necessary to know the total value of transactions, the average ticket of this value and  the number of orders placed. Make a SQL query that makes this report available.</p>
+  <spam>Make a SQL query that makes this report available.</spam><br/><br/>
+  
+  <img src="./public/assets/images/png/query.png"/><br/>
+
+  <spam><i>To access the code, [click here](https://github.com/brenndha-cabral/celcoin-exam/blob/main/database/query.sql).</i></spam><br/><br/>
+  
+<!-- Continue -->
+
+</details>
