@@ -100,3 +100,38 @@
   <img src="./public/assets/images/png/api-delete-id.png"/><br/><br/>
 
 </details>
+
+<details>
+
+<summary><strong>Task 5 :sparkles:</strong></summary><br/>
+
+<h2>Observe the table below and indicate the existing problems in the project of this table and make an Entity Relationship Model that presents the necessary corrections.</h2>
+
+<img src="./public/assets/images/png/table-wrong.png"/><br/>
+  
+  <p><i>My answer:</i></p>
+  
+<img src="./public/assets/images/png/entity-relationship-diagram.png"/><br/>
+
+</details>
+  
+<details>
+
+<summary><strong>Task 6 :sparkles:</strong></summary><br/>
+
+<h2>If you were to model the operation of an ATM System (Banking Self-Service Terminal) that allows: checking the balance, making withdrawals and carrying out mobile recharges.</h2>
+  
+<p>● Describe the main user stories involved in this system and the exceptions that may occur in this business model;</p>
+<p>● Propose a scalable and fault-resilient architecture solution for building this system. It is also important to explain the technologies, requirements and methodologies that would be used and the justifications for these choices;</p>
+<p>● Define the critical paths of the system and propose tests in order to guarantee higher quality and performance for the system.</p>
+  
+  <p><i>My answers:</i></p>
+
+<img src="./public/assets/images/png/user-stories.png"/><br/>
+<img src="./public/assets/images/png/use-case-diagram.png"/><br/>
+<img src="./public/assets/images/png/uc01-detailed-use-case-diagram.png"/><br/>
+<img src="./public/assets/images/png/uc02-detailed-use-case-diagram.png"/><br/>
+<img src="./public/assets/images/png/uc03-detailed-use-case-diagram.png"/><br/>
+<img src="./public/assets/images/png/architecture-solution.png"/><br/>
+
+</details>
