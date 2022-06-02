@@ -1,10 +1,12 @@
 <h1>Exam Celcoin :rocket:</h1>
 
-<spam>● Exam for Backend Developer at Celcoin.</spam>
+<spam><i>Exam for a Backend Developer at Celcoin.</i></spam>
 
 <h2>About</h2>
 
-<p>This exam contains some tasks to avaliate for a backend job at Celcoin, contains 6 tasks where I could pratice my skills.</p>
+<p>● This exam contains 6 tasks where I could pratice my skills.</p>
+<p>● I chose English as my primary language because it is importante for me to improve.</p>
+<p>● I currently work with JavaScript technology, so I felt comfortable using this programming language.</p>
 
 <h2>Tasks</h2>
 
