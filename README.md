@@ -78,7 +78,7 @@
   
   <p>If it were necessary to make a Web API or Web Service to manipulate the information of the products, that is, to add a new product, to change, to consult and to delete an existing product. Define the endpoints, requests, response, data access of this API and the way the user authenticates himself to consume it safely (Justify your decisions).</p>
   
-  <spam><i>The API follows the Rest standards, becoming a Restful API with CRUD endpoints. It was following the MSC architecture pattern for the development of the layers. About authentication and access, I will still study about these topics in the next few weeks (But I believe that JWT is used), what I did to validate some points was to use middewares.</i></spam>
+  <spam><i>The API follows the Rest standards, becoming a Restful API with CRUD endpoints. It was following the MSC architecture pattern for the development of the layers. About authentication and access, I will still study about these topics in the next few weeks (But I believe that JWT is used), what I did to validate some points was to use middlewares.</i></spam>
   
   <spam><i>Get | All Products</i></spam>
   
