@@ -74,6 +74,29 @@
 
   <spam><i>To access the code, [click here](https://github.com/brenndha-cabral/celcoin-exam/blob/main/database/query.sql).</i></spam><br/><br/>
   
-<!-- Continue -->
+  <p>If it were necessary to make a Web API or Web Service to manipulate the information of the products, that is, to add a new product, to change, to consult and to delete an existing product. Define the endpoints, requests, response, data access of this API and the way the user authenticates himself to consume it safely (Justify your decisions).</p>
+  
+  <spam><i>The API follows the Rest standards, becoming a Restful API with CRUD endpoints. It was following the MSC architecture pattern for the development of the layers. About authentication and access, I will still study about these topics in the next few weeks (But I believe that JWT is used), what I did to validate some points was to use middewares.</i></spam>
+  
+  <spam><i>Get | All Products</i></spam>
+  
+  <img src="./public/assets/images/png/api-get-all.png"/><br/><br/>
+  
+  <spam><i>Get | Find Product By Id</i></spam>
+  
+  <img src="./public/assets/images/png/api-find-id.png"/><br/><br/>
+  
+  <spam><i>POST | New Product (There is validation if product exist before in database)</i></spam>
+  
+  <img src="./public/assets/images/png/api-validade-post-product.png"/><br/>
+  <img src="./public/assets/images/png/api-post-product.png"/><br/><br/>
+  
+  <spam><i>PUT | Update Product By Id</i></spam>
+  
+  <img src="./public/assets/images/png/api-update-id.png"/><br/><br/>
+  
+  <spam><i>DELETE | Remove Product By Id</i></spam>
+  
+  <img src="./public/assets/images/png/api-delete-id.png"/><br/><br/>
 
 </details>
