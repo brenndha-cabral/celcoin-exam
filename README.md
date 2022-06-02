@@ -36,3 +36,21 @@
     because I'm not familiar with the technology addressed.</h3></i>
 
 </details>
+
+<details>
+
+<summary><strong>Task 3 :sparkles:</strong></summary><br/>
+
+<h2>Given the sequence of numbers: 3, 4, 9, 2, 5, 8, 2. Make an algorithm that sorts it in ascending order, presenting the sequence obtained after each step.</h2>
+
+  <p>To sort in more detail, here I used the bubbleSort method where the recursion technique is followed.</p>
+  <spam><i>Reference: https://www.section.io/engineering-education/sorting-algorithms-in-js/</i></spam><br/><br/>
+  
+  <img src="./public/assets/images/png/new-sorted-array-function.png"/><br/><br/>
+
+  <p>An alternative that I normally use in my projects would be the JS sort() method that sorts the elements of the array itself and returns the array.</p>
+  <spam><i>Reference: https://www.section.io/engineering-education/sorting-algorithms-in-js/](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)</i></spam><br/><br/>
+  
+  <img src="./public/assets/images/png/sorted-array.png"/><br/><br/>
+
+</details>
