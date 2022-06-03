@@ -72,6 +72,8 @@
   <p>In addition to the user information (name and email), it is necessary to know the total value of transactions, the average ticket of this value and  the number of orders placed. Make a SQL query that makes this report available.</p>
   <spam>Make a SQL query that makes this report available.</spam><br/><br/>
   
+  <p><i>My answer:</i></p>
+  
   <img src="./public/assets/images/png/query.png"/><br/>
 
   <spam><i>To access the code, [click here](https://github.com/brenndha-cabral/celcoin-exam/blob/main/database/query.sql).</i></spam><br/><br/>
