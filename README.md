@@ -53,7 +53,7 @@
   <img src="./public/assets/images/png/new-sorted-array-function.png"/><br/><br/>
 
   <p>An alternative that I normally use in my projects would be the JS sort() method that sorts the elements of the array itself and returns the array.</p>
-  <spam><i>Reference: https://www.section.io/engineering-education/sorting-algorithms-in-js/](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)</i></spam><br/><br/>
+  <spam><i>Reference: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort</i></spam><br/><br/>
   
   <img src="./public/assets/images/png/sorted-array.png"/><br/><br/>
 
